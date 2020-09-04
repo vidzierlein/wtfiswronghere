@@ -1,0 +1,1 @@
+fixed the missing output by changing the parameter in the function call fizzbuzz from 99 to 100
