@@ -1,0 +1,1 @@
+added self as argument to fizzbuzz method inside the FizzBuzz class
