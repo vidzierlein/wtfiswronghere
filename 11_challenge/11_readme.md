@@ -1,0 +1,1 @@
+Changed the order of logic checking to fizzbuzz, fizz and Buzz.
