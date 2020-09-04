@@ -1,0 +1,1 @@
+Fixed attribute error. changed conf.num to conf.num1
