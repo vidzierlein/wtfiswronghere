@@ -1,0 +1,1 @@
+Identifies error based on the arrow position and the message "Syntax error".
