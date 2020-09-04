@@ -1,0 +1,1 @@
+fixed NameError fizzbuzzy to fizzbuzz; added a colon after the for loop statement;added a closing quote to the string 'fizz'
