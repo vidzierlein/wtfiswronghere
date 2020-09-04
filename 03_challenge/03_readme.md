@@ -1,0 +1,1 @@
+04-09-2020 Fixed error on fizzbuzz() function call. Changed string '16' to int 16 to fix the TypeError
